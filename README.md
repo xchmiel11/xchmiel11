@@ -16,6 +16,6 @@ I'm 20 years old, IT student. I have been working in the IT industry for 2 years
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/xchmiel11/)
 [![jQuery](https://img.shields.io/badge/-jQuery-0767AC?style=flat-square&logo=jQuery)](https://github.com/xchmiel11/)
 
-[![Wordpress](https://img.shields.io/badge/-wordpress-black?style=flat-square&logo=wordpress)](https://github.com/xchmiel11/)
+[![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress)](https://github.com/xchmiel11/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/xchmiel11/)
 [![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)](https://github.com/xchmiel11/)
