@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**xchmiel11/xchmiel11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🥷 About me
 
-Here are some ideas to get you started:
+I'm 20 years old, IT student. I have been working in the IT industry for 2 years as a front end developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:j.chmielewski022@gmail.com)
+
+## 💻 Technologies
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=whites)](https://github.com/xchmiel11/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://github.com/xchmiel11/)
+[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)](https://github.com/xchmiel11/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://github.com/xchmiel11)
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/xchmiel11)
+[![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jQuery)](https://github.com/xchmiel11/)
+
+[![Wordpress](https://img.shields.io/badge/-wordpress-black?style=flat-square&logo=wordpress)](https://github.com/xchmiel11)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/xchmiel11/)
+[![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/xchmiel11/)
