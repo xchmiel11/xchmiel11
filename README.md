@@ -13,6 +13,7 @@ Currently I'm learning to become a fullstack.
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/xchmiel11/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://github.com/xchmiel11/)
 [![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)](https://github.com/xchmiel11/)
+[![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)](https://github.com/xchmiel11/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://github.com/xchmiel11/)
 
 [![React](https://img.shields.io/badge/-React-222222?style=flat-square&logo=react)](https://github.com/xchmiel11/)
