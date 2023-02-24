@@ -5,7 +5,7 @@
 I'm 20 years old, IT student. I have been working in the IT industry for 2 years as a frontend developer. <br/>
 Currently I'm learning to become a fullstack.
 
-[![chmieldev](https://img.shields.io/badge/-My-website-black?style=flat-square&logo=Google-chrome&logoColor=white)](https://chmieldev.pl/)
+[![chmieldev](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-chrome&logoColor=white)](https://chmieldev.pl/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:j.chmielewski022@gmail.com)
 
 ### 💻 Technologies
